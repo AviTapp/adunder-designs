@@ -1,0 +1,50 @@
+body			{
+	font: 14px/24px 'Helvetica Neue', Arial, sans-serif;
+	color: #fff;
+	background: #000000}
+
+body > h2		{
+	text-shadow: 1px 1px 0 white;
+	border-bottom: 2px solid #fff;
+	padding-bottom: 5px}
+
+h1				{
+	text-align: center;
+	margin-bottom: 30px;
+	text-shadow: 1px 1px 0 white}
+
+#preview		{
+	position:absolute;
+	border:1px solid #ccc;
+	background:#333;
+	padding:5px;
+	display:none;
+	color:#fff;
+	z-index: 999;}
+
+img 			{
+	border:none;
+	float:left;}
+
+ul,li			{
+	margin: 10px;
+	padding:0;}
+
+li 				{
+	list-style:none;
+	float:left;
+	display:inline;
+	margin: 10px;}
+
+ul	{
+	clear: both;}
+
+h3	{
+	margin: 15px 0 0 0;
+	border-bottom: 2px solid #fff;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	padding-left: 10px;
+	text-align: left;
+	clear: both;
+	float: left;}
