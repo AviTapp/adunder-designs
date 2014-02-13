@@ -8,3 +8,7 @@ I needed a project to work on, and she (in her eternal kindness) gave me
 permission to work on this for her.
 
 Questions, comments, and suggestions can be sent to: Andrew.Tapp@Gmail.com
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/AviTapp/adunder-designs/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
