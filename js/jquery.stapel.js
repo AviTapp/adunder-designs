@@ -189,7 +189,7 @@
 	// the options
 	$.Stapel.defaults = {
 		// space between the items
-		gutter : 40,
+		gutter : 30,
 		// the rotations degree for the 2nd and 3rd item 
 		// (to give a more realistic pile effect)
 		pileAngles : 2,

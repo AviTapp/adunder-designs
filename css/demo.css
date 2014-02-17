@@ -28,7 +28,11 @@
 
 body {
 	font-family: 'Lato', Calibri, Arial, sans-serif;
-	background: #cecece url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQklEQVQYV2P8//+/JCMj43MGPACsBiSPTzFMDqwQl2JkA+AK0RWj24KiEKYYRKO7mzyFyNbhtBqbzzE8Q1TwEBvgADC3RjcXfBsqAAAAAElFTkSuQmCC);
+	background: url(../img/bkgrnd.jpg) no-repeat center center fixed;
+		-webkit-background-size: 100% 100%;
+		-moz-background-size: 100% 100%;
+		-o-background-size: 100% 100%;
+		background-size: 100% 100%;
 	font-weight: 300;
 	font-size: 15px;
 	color: #333;
